@@ -1,0 +1,7 @@
+{
+    "name": "Native-App",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
